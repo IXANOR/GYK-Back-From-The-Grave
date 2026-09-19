@@ -110,7 +110,6 @@ If one player does not own a DLC, disable that DLC in the host's settings before
 
 ## Current limitations
 
-- Online co-op currently supports one host and one client.
 - The Steam version of the game is required.
 - The host remains authoritative for shared story and world state.
 - Local co-op is experimental and is separate from the supported online two-player flow.
